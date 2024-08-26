@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="NightAdjusted.Theme.BugTracker" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+    </style>
+
+    <style name="PlatformAdjusted.Theme.BugTracker" parent="NightAdjusted.Theme.BugTracker">
+        <item name="android:statusBarColor">@color/statusBar</item>
+    </style>
+
+    <style name="AppTheme.BugTracker" parent="PlatformAdjusted.Theme.BugTracker" />
+</resources>

@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+*.iml
+keystore.properties
+.idea/*
+/captures
+build/
+/build
+*/build
+.DS_Store
+/projectFilesBackup
+.java-version
+.kotlin/*

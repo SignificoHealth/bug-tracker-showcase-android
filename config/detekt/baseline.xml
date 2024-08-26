@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues></ManuallySuppressedIssues>
+  <CurrentIssues>
+    <ID>ParameterListWrapping:InsertFooterItem.kt$InsertFooterItem$(pagingData: PagingData&lt;ContentType&gt;)</ID>
+    <ID>ParameterListWrapping:InsertHeaderItem.kt$InsertHeaderItem$(pagingData: PagingData&lt;ContentType&gt;)</ID>
+  </CurrentIssues>
+</SmellBaseline>
